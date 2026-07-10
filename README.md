@@ -10,6 +10,11 @@ https://ishandshah.github.io
 
 If a custom domain is added later, update canonical URLs, Open Graph URLs, Twitter image URLs, JSON-LD URLs, `sitemap.xml`, and `robots.txt`.
 
+## Portfolio Maintenance Notes
+
+Keep private audit notes, Gmail-derived evidence, and pending achievement decisions in `portfolio-maintenance.local.md`.
+That file is intentionally gitignored so it can stay inside this project folder without becoming part of the public repository or GitHub Pages output.
+
 ## Folder Structure
 
 ```text
@@ -100,6 +105,9 @@ https://www.webofscience.com/wos/author/record/OSH-8372-2025
 Additional public profile and event URLs reviewed for this SEO pass:
 
 ```text
+https://hackernoon.com/building-event-driven-systems-that-can-recover-with-confidence
+https://www.youtube.com/watch?v=VuQuli16914
+https://ngn-hacks-2026.devpost.com/
 https://www.bintelligence.com/judge/ishan-shah
 https://www.webofscience.com/wos/author/record/OSH-8372-2025
 https://zenity.io/resources/events/ai-agent-security-summit-san-francisco

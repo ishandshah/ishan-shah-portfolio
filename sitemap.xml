@@ -5,7 +5,7 @@
 >
   <url>
     <loc>https://ishandshah.github.io/portfolio/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <image:image>
       <image:loc>https://ishandshah.github.io/portfolio/assets/og-image.png</image:loc>
       <image:caption>Ishan Shah, Staff Software Engineer focused on distributed systems and cloud-native platforms</image:caption>
@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://ishandshah.github.io/portfolio/about.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -33,13 +33,13 @@
   </url>
   <url>
     <loc>https://ishandshah.github.io/portfolio/speaking.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://ishandshah.github.io/portfolio/service.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
