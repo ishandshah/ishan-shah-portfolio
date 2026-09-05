@@ -24,6 +24,7 @@ portfolio/
 ├── projects.html
 ├── leadership.html
 ├── speaking.html
+├── writing.html
 ├── service.html
 ├── resume.html
 ├── contact.html
@@ -99,6 +100,7 @@ The Sessionize speaker profile URL is currently:
 
 ```text
 https://sessionize.com/ishan-shah/
+https://sessionize.com/api/speaker/json/5slht3mgap
 https://www.webofscience.com/wos/author/record/OSH-8372-2025
 ```
 
@@ -106,7 +108,14 @@ Additional public profile and event URLs reviewed for this SEO pass:
 
 ```text
 https://hackernoon.com/building-event-driven-systems-that-can-recover-with-confidence
+https://hackernoon.com/ai-agents-should-bring-receipts-not-just-answers
+https://dzone.com/articles/design-replay-safe-cdc-pipelines
+https://www.javacodegeeks.com/building-idempotent-java-consumers-for-replay-safe-kafka-pipelines.html
 https://www.youtube.com/watch?v=VuQuli16914
+https://www.wearedevelopers.com/world-congress-north-america/agenda/sessions/replay-safe-architecture-building-event-driven-systems-that-can-recover-with-con-1280580
+https://cloudxconf.com/cloud-development-summit/sre-devops-and-platform-engineering/
+https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/
+https://ai-builders-hackathon-2026.devpost.com/
 https://ngn-hacks-2026.devpost.com/
 https://www.bintelligence.com/judge/ishan-shah
 https://www.webofscience.com/wos/author/record/OSH-8372-2025
